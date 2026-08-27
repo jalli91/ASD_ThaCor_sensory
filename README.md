@@ -122,7 +122,7 @@ scripts:
 | Modality | ROIs |
 |---|---|
 | Auditory | aSTG L/R, pSTG L/R, Heschl's gyrus L/R |
-| Somatosensory | Postcentral gyrus, superior parietal lobule, anterior/posterior supramarginal gyrus, angular gyrus, parietal operculum (L/R) |
+| Somatosensory | Postcentral gyrus, superior parietal lobule, anterior/posterior supramarginal gyrus, parietal operculum (L/R) |
 | Visual | Occipital, medial and lateral visual networks |
 | Gustatory | Insular cortex L/R |
 
