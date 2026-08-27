@@ -36,9 +36,6 @@ difficulties.
 
 ```
 .
-├── manuscript.docx         Main manuscript
-├── Supplementary.docx      Supplementary Materials (Tables S1–S9, Figure S1)
-├── CLAUDE.md               Internal working notes on the code base
 └── code/
     ├── ABIDE/              ABIDE arm + the combined ABIDE+NTUH models
     │   ├── S1_ABIDE_ASD_preprocess_multisite.m
